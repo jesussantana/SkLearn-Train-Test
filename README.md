@@ -18,7 +18,7 @@ Familiarize yourself with scientific programming through the SKLearn / Scikitlea
 ### Level 2
 
 - Exercise 2: 
-  - Apply some transformation process (standardize numerical data, create dummy columns, polynomials ...).
+  - Apply some transformation process (standardize numerical data, create dummy columns, polynomials.
 
 ### Level 3
 
