@@ -10,5 +10,4 @@ def transform(df):
     imputer = SimpleImputer(missing_values = np.nan, strategy = 'mean', verbose=0) 
     imputer = imputer.fit(df)
     df = imputer.transform(df)
-
     return df
