@@ -1,5 +1,5 @@
 # IT Academy - Data Science with Python
-## [S11 T01: SkLearn Train Test](https://github.com/jesussantana/SkLearn-Train-Test/blob/main/notebooks/Sprint_11_SkLearn_Train_Test.ipynb)
+## [S11 T01: SkLearn Train Test](https://github.com/jesussantana/SkLearn-Train-Test/blob/main/notebooks/S11_T01_SkLearn_Train_Test.ipynb)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
