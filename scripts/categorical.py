@@ -18,11 +18,12 @@ def transform_dummies(df, var_name):
 from sklearn.preprocessing import OrdinalEncoder
 
 def transform_ordinal(df, var_name):
-# Creamos el codif(icador indicandole el orden de la variables
+    #Create the encoder (icator indicating the order of the variables
     encoder = OrdinalEncoder()
 
-# Ajustamos el codificador con la variable education y la transformamos
+    # Adjust the encoder with the variable  and transform it
     encoder.fit(df[[var_name]])
     df[f"{var_name}-encoded"] = encoder.transform(df[[var_name]])
     df = df.drop(var_name)
+    
     return df
